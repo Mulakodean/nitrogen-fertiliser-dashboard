@@ -2,7 +2,7 @@
 Interactive dashboard for exploring nitrogen fertiliser demand scenarios in Africa.
 
 ## Live dashboard
-https://YOUR-USERNAME.github.io/oxford-fertiliser-dashboard/
+https://mulakodean.github.io/nitrogen-fertiliser-dashboard/
 
 ## Preprint status
 This dashboard accompanies the following Research Square preprint:
