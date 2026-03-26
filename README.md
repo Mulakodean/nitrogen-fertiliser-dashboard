@@ -7,7 +7,7 @@ https://mulakodean.github.io/nitrogen-fertiliser-dashboard/
 ## Preprint status
 This dashboard accompanies the following Research Square preprint:
 
-Mulako Mukelabai, Alycia Leonard, Daniel Mwendwa et al. Projecting nitrogen fertilizer use in Africa using empirically bounded historical drivers, 26 March 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-8870496/v1]
+Mulako D. Mukelabai, Alycia Leonard, Daniel M. Mwendwa, Stephanie Hirmer. Projecting nitrogen fertilizer use in Africa using empirically bounded historical drivers, 26 March 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-8870496/v1]
 
 This work is based on a preprint that has not yet undergone peer review.  
 The findings shown here are provisional and may change following peer review and journal publication.
